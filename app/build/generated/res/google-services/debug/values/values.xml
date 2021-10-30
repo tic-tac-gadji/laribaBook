@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">793415708791-mm5rm6ngud7p6rh6jk079v7d1f3kse19.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://ss2020-ccbca.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">793415708791</string>
+    <string name="google_api_key" translatable="false">AIzaSyDuOLRcMSPH7UhDkEQ18f24U3P1z77TEgY</string>
+    <string name="google_app_id" translatable="false">1:793415708791:android:fb833f2c7167ab90545672</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDuOLRcMSPH7UhDkEQ18f24U3P1z77TEgY</string>
+    <string name="google_storage_bucket" translatable="false">ss2020-ccbca.appspot.com</string>
+    <string name="project_id" translatable="false">ss2020-ccbca</string>
+</resources>
