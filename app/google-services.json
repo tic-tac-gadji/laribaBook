@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "793415708791",
+    "firebase_url": "https://ss2020-ccbca.firebaseio.com",
+    "project_id": "ss2020-ccbca",
+    "storage_bucket": "ss2020-ccbca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793415708791:android:fb833f2c7167ab90545672",
+        "android_client_info": {
+          "package_name": "com.example.mycyberchallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793415708791-mm5rm6ngud7p6rh6jk079v7d1f3kse19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuOLRcMSPH7UhDkEQ18f24U3P1z77TEgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793415708791-mm5rm6ngud7p6rh6jk079v7d1f3kse19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
