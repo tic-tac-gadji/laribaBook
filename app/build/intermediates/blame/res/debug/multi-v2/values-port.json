@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Friday\\AndroidStudioProjects\\MyCyberchallenge\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "outputFile": "C:\\Users\\Friday v2.1\\laribaBook\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Friday\\.gradle\\caches\\transforms-2\\files-2.1\\a32552ed4016ef1f3a19941adff20cb7\\appcompat-1.0.2\\res\\values-port\\values-port.xml",
+                    "source": "C:\\Users\\Friday v2.1\\.gradle\\caches\\transforms-2\\files-2.1\\a32552ed4016ef1f3a19941adff20cb7\\appcompat-1.0.2\\res\\values-port\\values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

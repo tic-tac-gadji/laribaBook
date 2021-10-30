@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Friday\\AndroidStudioProjects\\MyCyberchallenge\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
+            "outputFile": "C:\\Users\\Friday v2.1\\laribaBook\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Friday\\.gradle\\caches\\transforms-2\\files-2.1\\a32552ed4016ef1f3a19941adff20cb7\\appcompat-1.0.2\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "source": "C:\\Users\\Friday v2.1\\.gradle\\caches\\transforms-2\\files-2.1\\a32552ed4016ef1f3a19941adff20cb7\\appcompat-1.0.2\\res\\values-watch-v20\\values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",

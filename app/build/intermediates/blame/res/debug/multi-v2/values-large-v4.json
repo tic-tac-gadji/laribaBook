@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Friday\\AndroidStudioProjects\\MyCyberchallenge\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+            "outputFile": "C:\\Users\\Friday v2.1\\laribaBook\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Friday\\.gradle\\caches\\transforms-2\\files-2.1\\d269c7c31f257524f5ef8afeb4ec3767\\material-1.0.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\Friday v2.1\\.gradle\\caches\\transforms-2\\files-2.1\\d269c7c31f257524f5ef8afeb4ec3767\\material-1.0.0\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Friday\\.gradle\\caches\\transforms-2\\files-2.1\\a32552ed4016ef1f3a19941adff20cb7\\appcompat-1.0.2\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\Friday v2.1\\.gradle\\caches\\transforms-2\\files-2.1\\a32552ed4016ef1f3a19941adff20cb7\\appcompat-1.0.2\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
